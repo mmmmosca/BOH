@@ -1,0 +1,11 @@
+- x. : output the value in line x as it's corrisponding character (ASCII)
+- x, : output the value in line x as a number
+- x?y : check if the two values are equal
+- Tx : if the condition is true then jump to line x
+- Fx : if the condition is false then jump to line x
+- x+ : add 1 to the value in line x
+- x- : subtract 1 to the value in line x
+- @x : jump to line x
+- x#y : replace the value in line x in line y
+- $ : Take input from th euser as a number
+- ! : Stop the program
